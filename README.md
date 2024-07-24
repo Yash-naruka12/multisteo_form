@@ -1,8 +1,18 @@
-# React + Vite
+# Multi-Step Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a responsive multi-step form created using React.js, MUI, and Tailwind CSS. The form includes data validation, error handling, and navigation controls, with data persisted to local storage.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Three-step form: Personal Info, Address Info, Confirm
+- Data validation for email, phone number, and name
+- Local storage to persist form data
+- Responsive design using Tailwind CSS
+- Error handling and navigation controls
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   https://github.com/Yash-naruka12/multistep_form.git
